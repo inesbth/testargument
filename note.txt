@@ -1,0 +1,7 @@
+# commandes utiles pour git:
+
+- git init : quand c'est un nouveau projet, pour initialiser le dossier à git
+- git add . : ajouter les fichiers pour qu'ils soient commités
+- git commit -m "mon message": commiter les changements
+- git status : voir ce qui est pas encore commité
+- git log --oneline : voir les messages de commit précédents

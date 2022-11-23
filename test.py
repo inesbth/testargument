@@ -1,3 +1,3 @@
-print("hello world")
+import sys
 
-print("salu")
+print("salut ",sys.argv[1])
