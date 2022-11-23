@@ -6,3 +6,4 @@
 - git status : voir ce qui est pas encore commité
 - git log --oneline : voir les messages de commit précédent
 - git push: pour pousser sur github les commits locaux
+- git pull: pour recuperer les changements distants (quand qqun d'autre dans l'équipe change le fichier)
